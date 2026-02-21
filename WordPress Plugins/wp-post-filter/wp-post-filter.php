@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: WP Post Filter
-Description: This plugin is created by Md Mustakim to provide an AJAX-powered post filter with search and pagination. It allows dynamic filtering, exclusion of specific posts, and supports hidden filter parameters. Use the following shortcodes to display the post filter on any page:
-[wp_post_filter]
+Plugin URI: https://wa.me/917255832335?text=Hello%2C%20I%20need%20WordPress%20plugin%20development%20support.%20Please%20contact%20me%20to%20discuss%20the%20requirements.%20Thank%20you
+Description: This plugin is created by Md Mustakim to provide an AJAX-powered post filter with search and pagination. It allows dynamic filtering, exclusion of specific posts, and supports hidden filter parameters. Use the following shortcodes to display the post filter on any page: [wp_post_filter], 
 [wp_post_filter hidden_author="author" hidden_focus_area="" hidden_publication_type="spotlights"]
+Version: 1.0.0
 Author: Md Mustakim
-Phone: +91 7255832335
-Website: https://mustakimportfolio.wordpress.com/
+Author URI: https://mustakimportfolio.wordpress.com
 */
 
 if (!defined('ABSPATH')) {
